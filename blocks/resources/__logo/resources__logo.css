@@ -1,0 +1,9 @@
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}
+
+/* немного самодеятельности */
+.resources__logo:hover {
+  box-shadow: 0 0 10px #696969;
+}
